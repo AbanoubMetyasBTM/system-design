@@ -38,8 +38,9 @@
     - 2 servers (we can use also a server for reading operation and another server for writing operations)
     - 2 databases (master, replication)  
   - if our system is read-heavy system we can all more servers for reading
-  - we can use also caching server 
-    - 
+  - we can use also caching server
+  -  
+  - Servers Diagram
   - ![Alt text](02-imgs/servers.jpg?raw=true "Servers")
 
 
