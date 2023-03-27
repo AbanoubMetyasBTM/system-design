@@ -41,7 +41,7 @@
   - we can use also caching server
   -  
   - Servers Diagram
-  - ![Alt text](02-imgs/servers.jpg?raw=true "Servers")
+  - ![Alt text](imgs/servers.jpg?raw=true "Servers")
 
 
 
