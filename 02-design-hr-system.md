@@ -17,12 +17,12 @@
 - Define Data Model - db structure
   - 
   - Employee Table
-    - EmpId (int)
+    - EmpId (int) - PK
     - EmpName (varchar)
     - EmpSalary (decimal) 
     - EmpDepartmentId (int)
   - Department Table
-    - DepId (int)
+    - DepId (int) - PK
     - DepName (varchar)
 
 
