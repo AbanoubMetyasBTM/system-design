@@ -1,8 +1,11 @@
 ### 5 Steps to design any system
-- Requirements Analysis - Functional and non-functional Requirements
+- Requirements Analysis 
+  - 
+  - we want to manage employee at our company
 
 
 - Api Design
+  - 
   - CreateDepartment(DepName): DepObject
   - CreateEmployee(array EmpData): EmpObject
   - updateEmployee(array EmpData): EmpObject
@@ -12,6 +15,7 @@
   
 
 - Define Data Model - db structure
+  - 
   - Employee Table
     - EmpId (int)
     - EmpName (varchar)
@@ -25,9 +29,8 @@
 - High Level Design 
   - 
   - 
-  - 
-  - 
 - Scale up
+  - 
   - since we are want our system to be high available
   - we can not stand a single point of failure 
   - so we'll use
@@ -36,7 +39,7 @@
     - 2 databases (master, replication)  
   - if our system is read-heavy system we can all more servers for reading
   - we can use also caching server 
-  - 
+    - 
   - ![Alt text](02-imgs/servers.jpg?raw=true "Servers")
 
 
